@@ -23,7 +23,7 @@ const perguntas = [
         alternativas: [
             {
                 texto: "Nunca",
-                afirmacao: "E segue em frente em busca do topo"
+                afirmacao: "E segue em frente em busca do topo."
             },
             {
                 texto: "Sempre",
@@ -36,11 +36,11 @@ const perguntas = [
         alternativas: [
             {
                 texto: "Futuro",
-                afirmacao: "Você vai se esforçar para ter alguém."
+                afirmacao: "Você está esperando aquela pessoa especial aparcer ainda."
             },
             {
                 texto: "Passado",
-                afirmacao: ""
+                afirmacao: "Você ainda pensa naquela pessoa do passado."
             }
         ]
     },
@@ -49,11 +49,11 @@ const perguntas = [
         alternativas: [
             {
                 texto: "Sonhadora",
-                afirmacao: "Notou também que muitas pessoas não sabem ainda utilizar as ferramentas tradicionais e decidiu compartilhar seus conhecimentos de design utilizando ferramentas de pintura digital para iniciantes."
+                afirmacao: "Você possui esperança de achar o veio da lancha."
             },
             {
                 texto: "Pé no chão",
-                afirmacao: "Acelerou o processo de criação de trabalhos utilizando geradores de imagem e agora consegue ensinar pessoas que sentem dificuldades em desenhar manualmente como utilizar também!"
+                afirmacao: "Sabe que não vai achar o veio da lancha, mas ainda procura achar algue,"
             }
         ]
     },
@@ -62,11 +62,11 @@ const perguntas = [
         alternativas: [
             {
                 texto: "Me sinto bem",
-                afirmacao: "Infelizmente passou a utilizar a IA para fazer todas suas tarefas e agora se sente dependente da IA para tudo."
+                afirmacao: "Você aprecia seu momentos a sós, isso pode desencorajar seu docinho de coco"
             },
             {
                 texto: "Me sinto sollitário(a)",
-                afirmacao: "Percebeu que toda IA reproduz orientações baseadas na empresa que programou e muito do que o chat escrevia não refletia o que pensava e por isso sabe que os textos gerados pela IA devem servir como auxílio e não resultado final. "
+                afirmacao: "Você é uma pessoa que tem carência de afeto. "
             }
         ]
     },
